@@ -1,4 +1,4 @@
-name: My First GitHub Actions #Initial Commit
+name: My First GitHub Actions #Initial Commit added changes
 
 on: [push]
 
